@@ -135,6 +135,7 @@
 - 监听器应答模式改为 `manual`
 - 通过 `message.getMessageProperties().getDeliveryTag()` 获取 `deliveryTag`
 - 成功后执行：
-
-```java
 channel.basicAck(deliveryTag, false);
+
+失败后执行：
+channel.basicNack(deliveryTag, false, false);
