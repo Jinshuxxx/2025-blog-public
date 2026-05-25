@@ -137,5 +137,5 @@
 - 成功后执行：
 channel.basicAck(deliveryTag, false);
 
-失败后执行：
+- 失败后执行：
 channel.basicNack(deliveryTag, false, false);
