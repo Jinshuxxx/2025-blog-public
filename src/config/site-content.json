@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "WuBlog",
-		"description": "小武的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "小武 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "小武"
 	},
 	"theme": {
@@ -33,7 +33,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "1c7b726fe720679b",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -45,14 +45,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/Jinshuxxx",
+			"value": "https://github.com/yysuni",
 			"label": "Github",
+			"order": 3
+		},
+		{
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "wurj01@qq.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
