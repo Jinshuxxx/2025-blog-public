@@ -139,4 +139,4 @@
 channel.basicAck(deliveryTag, false);
 
 - 失败后执行：
-channel.basicNack(deliveryTag, false, false);
+channel.basicNack(deliveryTag, false, false);![](/blogs/2026-0526/11c8f565b6306a33.png)
