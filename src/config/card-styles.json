@@ -11,8 +11,8 @@
 		"width": 360,
 		"height": 288,
 		"order": 1,
-		"offsetX": -271,
-		"offsetY": -209,
+		"offsetX": -329,
+		"offsetY": -250,
 		"enabled": true
 	},
 	"clockCard": {
@@ -28,8 +28,8 @@
 		"width": 350,
 		"height": 286,
 		"order": 5,
-		"offsetX": 280,
-		"offsetY": -86,
+		"offsetX": 161,
+		"offsetY": -82,
 		"enabled": true
 	},
 	"musicCard": {
@@ -69,8 +69,8 @@
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 180,
-		"offsetY": -194,
+		"offsetX": 133,
+		"offsetY": -242,
 		"enabled": true
 	},
 	"navCard": {
