@@ -1,5 +1,16 @@
 [
   {
+    "slug": "2026-0528",
+    "title": "RabbitMQ 延迟交换机",
+    "tags": [
+      "JAVA"
+    ],
+    "date": "2026-05-26T17:45",
+    "summary": "",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "2026-0526",
     "title": "RabbitMQ",
     "tags": [
